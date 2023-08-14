@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Thadiparthi</h1>
-<h3 align="center">SRM '24 | B.Tech in Computer Science with a specialization in loT | Full Stack Developer with expertise in C, C++, and Python | A passionate Full Stack developer from India</h3>
+<h3 align="center"> Full Stack Developer with expertise in C, C++, and Python | A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Memories(Full stack)**
+- 🔭 I’m currently working on **Memories App(Full stack)**
 
 - 🌱 I’m currently learning **NextJs,3Js**
 
