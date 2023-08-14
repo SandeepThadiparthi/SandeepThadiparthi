@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Thadiparthi</h1>
 <h3 align="center"> Full Stack Developer with expertise in C, C++, and Python | A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Memories App(Full stack)**
+- 🔭 I’m currently working on **Memories Social Media App(Full stack)**
 
 - 🌱 I’m currently learning **NextJs,3Js**
 
