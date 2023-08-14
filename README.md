@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SandeepThadiparthi/](https://github.com/SandeepThadiparthi/)
 
-- 💬 Ask me about **reactjs,nodejs,mongodb**
+- 💬 Ask me about **❓ Ask me about anything related to MERN stack and related technologies**
 
 - 📫 How to reach me **sandeepthadiparthi@gmail.com**
 
